@@ -1,0 +1,20 @@
+Index: src/main/java/Test/Test/java2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Test/Test/java2.java b/src/main/java/Test/Test/java2.java
+new file mode 100644
+--- /dev/null	(date 1737703776848)
++++ b/src/main/java/Test/Test/java2.java	(date 1737703776848)
+@@ -0,0 +1,10 @@
++package Test.Test;
++
++  public class TestJava1 {
++
++    public static void main(String[] args) {
++        System.out.println("Automation Testing");
++
++    }
++
++}
